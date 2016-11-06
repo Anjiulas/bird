@@ -1,0 +1,10 @@
+body,canvas,div{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bk{
+    width: 288px;
+    height: 512px;
+    margin: 0 auto;
+}
